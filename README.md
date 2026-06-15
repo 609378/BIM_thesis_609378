@@ -1,7 +1,6 @@
 # BIM_thesis_609378
 ## Overview
-This repository contains the code and data for my thesis on using LLM-generated 
-synthetic data to improve aspect-level CSR classification under data scarcity.
+This repository contains the code and data for my thesis "Synthetic Data Augmentation for ESG Claim Classification Under Data Scarcity: A Data-Centric Experimental Study"
 
 ## Repository Structure
 - `code/` — Jupyter notebooks for data generation and model experiments
