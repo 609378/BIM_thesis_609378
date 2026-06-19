@@ -16,3 +16,6 @@ This repository contains the code and data for my thesis "Synthetic Data Augment
 ## Requirements
 - Python 3.10+
 - transformers, pandas, scikit-learn, anthropic
+
+## Note
+- Robustness check 3 was not conducted for the thesis in the end.
