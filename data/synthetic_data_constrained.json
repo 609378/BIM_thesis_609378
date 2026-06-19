@@ -1,0 +1,3347 @@
+[
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure that workplace risks are identified and managed through our established governance system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure that all employees and suppliers adhere to ethical business practices and maintain high standards of corporate governance in their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure compliance with ethical standards and protection measures in our business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to prevent potential risks and ensure all employees can work in an environment that meets high standards of protection.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees from potential risks, and maintain high standards through our management system that ensures compliance with ethical practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures to ensure all employees and suppliers maintain high ethical standards in business practices and prevent potential risks through regular reporting requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees from potential risks and ensure compliance with ethical standards and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure that workplace risks are identified and managed through our systematic reporting procedures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training programmes on ethical business practices and reporting requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has committed to enhance workplace health and safety through regular training programmes for all employees and suppliers, ensuring that protective equipment and safe work procedures are in place to prevent potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards and environmental protection requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure compliance with workplace standards and prevent potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to prevent workplace risks and ensure compliance with ethical standards and protection requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to provide regular anti-corruption training programmes for all employees and suppliers to ensure ethical business practices and maintain high governance standards in our activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all workers from potential risks, and continue to provide personal protection equipment to ensure their wellbeing during activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace to protect all employees and workers from potential risks, and we continue to enhance our management system through various procedures and practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees and workers from potential risks during the pandemic through various measures such as personal protection equipment and social distancing practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure compliance with workplace protection standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers and continue to provide personal protection equipment to ensure compliance with workplace standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace accidents and ensure compliance with ethical standards and corporate governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training on ethical business practices and reporting requirements to prevent potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To ensure the health and safety of our workers during the COVID pandemic, we have implemented various measures such as personal protection equipment provision and regular testing procedures for all employees in the workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure high standards of workplace protection and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure that all employees receive regular training on ethical business practices and maintain high standards of governance in their work with stakeholders and suppliers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace to prevent potential risks and ensure all workers can maintain high standards of protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and continue to enhance our workplace procedures to prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide annual anti-corruption training programmes for all employees and management team to ensure ethical business practices and maintain high governance standards in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has committed to provide regular anti-corruption training programmes for all employees and management to ensure ethical business practices and maintain high standards of governance in the workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to prevent workplace accidents and ensure compliance with environmental protection standards through our management system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure they understand workplace risks and can maintain high standards of personal protection in their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all employees and workers, with procedures in place to ensure personal protection equipment use and maintain high standards during workplace activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to implement regular anti-corruption training programmes for all employees and management team, ensuring that ethical business practices and governance standards are maintained through various measures to prevent potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards and regulatory requirements in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure compliance with workplace standards and create a safe environment that will prevent potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes that enhance their understanding of workplace risks and ensure compliance with ethical standards in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has established anti-corruption policies and regular reporting procedures to ensure that all business activities maintain high ethical standards and prevent potential risks to our stakeholders and corporate governance system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure compliance with ethical standards and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure compliance with ethical standards and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide anti-corruption training programmes for all employees and management team members on an annual basis to ensure ethical business practices and maintain high governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our commitment to workplace health and safety, we have implemented regular training programmes for all employees on pandemic prevention measures and ensure personal protection equipment is available at all business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures to ensure that all employees and suppliers maintain ethical business practices and prevent any potential risks to our corporate governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures that require all employees and suppliers to maintain ethical business practices, with regular training programmes in place to ensure compliance with governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace accidents and ensure compliance with ethical standards and regulatory requirements in our operations this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure compliance with workplace standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and continue to provide personal protection equipment to ensure a safe workplace environment that meets high standards for our workers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure the workplace maintains high standards of protection and to prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and maintain high standards of protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our group has implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training programmes on ethical business practices and reporting of potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure all employees and suppliers maintain high ethical standards in business practices, with regular training programmes in place to prevent corruption risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards and regulatory requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established regular training programmes for all employees on anti-corruption policies and ethical business practices to ensure compliance with governance standards and prevent potential risks to our corporate reputation.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety programmes through our workplace system, and this includes measures to prevent potential risks during their activities at our various facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular anti-corruption training programmes for all employees and management team, ensuring that ethical business practices and governance standards are maintained through various measures that prevent potential risks to stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure that our team can maintain high standards of protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and regular training programmes for all employees to ensure ethical business practices and maintain high standards of corporate governance in all our activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular anti-corruption training programmes and ensure that ethical business practices are in place through our governance system to prevent potential risks to stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To ensure ethical business practices and prevent corruption, we have implemented anti-corruption policies and procedures that all employees and suppliers are required to follow through regular reporting and management oversight.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees from potential risks during the pandemic, and will continue to enhance our system through the year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has established anti-corruption policies and procedures that all employees and suppliers are required to respect, and we provide regular ethical business practices programmes to ensure compliance with governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards and human rights protection requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety procedures that require all team members to use personal protection equipment during high risk activities to prevent workplace injuries and ensure the safety of our workers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees and workers from potential risks, with particular measures in place to prevent accidents through the use of personal protection equipment.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure high standards of workplace protection and prevent potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption policies and procedures, we have implemented regular training programmes for all employees and suppliers to ensure ethical business practices and maintain high standards of governance in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers to prevent workplace risks and ensure compliance with ethical standards through various measures that protect our people during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and maintain high standards of protection in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety training programmes for all employees and workers to ensure that workplace risks are managed through various preventive measures and ethical practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption programmes, we have implemented regular training for all employees and suppliers to ensure ethical business practices and maintain high standards of governance that support stakeholder trust and value creation.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in all workplace activities to protect our employees and workers from potential risks, with measures in place to prevent accidents and ensure compliance with ethical standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to ensure compliance with workplace safety standards and prevent potential risks during business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure they maintain high standards of workplace protection and can prevent potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training on ethical business practices and to report any potential risks through our governance system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all employees and suppliers to prevent workplace risks and maintain high standards of protection during operations at our facilities this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety training programmes for all employees and provide personal protection equipment to ensure compliance with workplace safety standards and prevent potential risks to our workers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to provide regular anti-corruption training programmes for all employees and management team members to ensure ethical business practices and maintain high governance standards in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training programmes on ethical business practices and reporting requirements to prevent potential risks in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has committed to provide regular anti-corruption practices through various programmes and procedures that ensure all employees and suppliers maintain high ethical standards in business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety training programmes for all employees and contractors to ensure compliance with workplace safety standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption policies and procedures, we have implemented regular reporting measures to ensure that all employees and suppliers maintain ethical business practices and respect governance requirements in all activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place a system to provide regular health and safety programmes for all workers, and we continue to enhance our workplace practices to prevent potential risks during business",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure that our team maintains high standards of protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular anti-corruption training programmes and maintain ethical reporting procedures to ensure that our business practices respect high governance standards and prevent potential risks to stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has implemented anti-corruption policies and procedures to ensure all employees and suppliers maintain ethical business practices, with regular training programmes in place to prevent corruption risks through the workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure that workplace practices meet high ethical standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety procedures for all workers that ensure the use of personal protection equipment during high risk activities in the workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure that our people can work in a safe environment during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to enhance our anti-corruption measures through regular training programmes for all employees and management team, ensuring that ethical business practices are maintained and potential risks are prevented in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety programmes that provide our employees with personal protection equipment and ensure compliance with workplace safety standards to prevent potential",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To ensure the health and protection of our employees during the COVID pandemic, we have committed to provide personal protection equipment and implement safe workplace measures through regular monitoring of all workers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety training programmes for all workers to prevent workplace accidents and ensure that our employees can maintain high standards of personal protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety training programmes for all employees and workers to ensure that workplace practices meet high standards and prevent potential risks from equipment use.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures that provide regular training programmes for all employees to ensure ethical business practices and prevent potential risks to stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to prevent workplace accidents and ensure compliance with ethical standards and regulatory requirements in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure that workplace practices meet high standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure high standards of protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect our employees from potential risks, and continue to provide personal protection equipment to all workers during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure all employees and suppliers maintain high ethical standards in business practices, with regular training programmes that continue to support governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to prevent workplace accidents and ensure compliance with ethical standards and legal requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety procedures that require all equipment to be inspected at 19 checkpoints during the year to prevent workplace risks and protect our workers from potential hazards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has committed to provide regular health and safety training programmes for all employees and suppliers to ensure high standards of workplace protection and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to prevent potential risks and ensure all workers can maintain high standards of personal protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established anti-corruption policies and procedures that are in place to ensure ethical business practices and maintain high governance standards across all our operations and with our suppliers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure high standards of protection in our operations during the year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures through workplace equipment maintenance programmes and continue to provide anti-corruption training to all employees as part of our corporate governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace to protect all employees and workers from potential risks, and will continue to enhance our system through various programmes this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place anti-corruption policies and procedures that require all employees and suppliers to maintain ethical business practices and prevent any potential risks to our corporate governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and provide personal protection equipment at the workplace to prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to provide regular health and safety programmes for all employees and suppliers to ensure high standards of workplace protection and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures across all our workplace facilities to protect employees and workers from potential risks, and will continue to enhance these measures through the use of personal protection equipment.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular health and safety programmes for all employees and workers, with measures in place to ensure that our workplace practices maintain high standards of protection from potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards and legal requirements in our business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented an anti-corruption system with regular reporting procedures to ensure all employees and suppliers maintain ethical business practices and respect governance standards that protect stakeholder interests.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in all workplace activities to protect our employees and workers from potential risks, with particular focus on providing personal protection equipment and maintaining high standards during the pandemic.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure that workplace risks are managed effectively and that our team can maintain high standards of protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees from potential risks, and we continue to provide personal protection equipment to maintain high standards during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures for all employees and suppliers to ensure ethical business practices and prevent potential risks to our corporate governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety training programmes for all employees and workers to ensure that our team can maintain high standards of workplace protection and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to enhance workplace health and safety through regular training programmes for all employees and the use of personal protection equipment in all operations to prevent potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers to prevent workplace risks and ensure compliance with ethical standards and human rights requirements in our business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular anti-corruption training programmes for all employees and management team members to ensure ethical business practices and maintain high standards of corporate governance in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has established regular health and safety training programmes for all employees and suppliers to prevent workplace risks and maintain high standards of protection during operations this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in all workplace activities to prevent potential risks and protect our employees from accidents during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure that workplace practices meet ethical standards and protect people from potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular anti-corruption training programmes for all employees and management team members to ensure ethical business practices and maintain high standards of corporate governance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in all our operations to prevent workplace risks and ensure the protection of our employees, contractors, and other stakeholders during business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees from potential risks and maintain high standards that support our commitment to creating value for stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace, such as providing personal protection equipment to all workers and ensuring compliance with ethical standards to",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has committed to provide regular health and safety training programmes for all employees and workers, with measures in place to ensure that workplace equipment and procedures maintain high standards of protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace accidents and ensure compliance with corporate standards on personal protection equipment use.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure workplace protection standards are maintained and to prevent potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has committed to provide regular health and safety training programmes for all employees and suppliers to ensure high standards of workplace protection and prevent potential",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to prevent potential risks and ensure all employees can work in a safe environment that protects their wellbeing.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular training programmes for all employees on anti-corruption policies and ethical business practices to ensure compliance with governance standards and maintain the trust of our stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure high standards of workplace protection and maintain compliance with social and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has implemented regular health and safety training programmes for all workers to ensure workplace protection and prevent potential risks during operations, with such measures enhancing the overall safe work environment.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all workers from potential risks and ensure that our business activities maintain high standards during operations this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular training programmes for all employees on anti-corruption policies and ethical business practices to ensure compliance with governance standards and maintain the high level of corporate integrity that our stakeholders expect.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has committed to provide regular anti-corruption training programmes for all employees and management team members to ensure ethical business practices and maintain high standards of corporate governance in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees to complete regular training programmes on ethical business practices and to report any potential risks through our management system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"During the pandemic, we implemented regular health and safety measures in the workplace to protect all employees and workers from potential COVID risks through various programmes that ensure high standards of protection are maintained.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and provide personal protection equipment at the workplace to prevent potential risks and ensure safe working conditions.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in all our workplace facilities to prevent potential risks and ensure the protection of our employees during their activities",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures to ensure ethical business practices, and all employees are required to complete regular training programmes on corruption prevention and governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all employees and suppliers to prevent workplace risks and ensure the protection of workers through various measures that maintain high standards in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to prevent COVID-19 transmission and protect all employees, ensuring business continuity through various measures such as safe distancing and personal protection equipment.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to provide regular health and safety programmes for all workers in the workplace, and will continue to enhance personal protection equipment measures to prevent potential risks during various business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all workers to prevent workplace accidents and ensure that our team can maintain high standards of protection in their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes that enhance their understanding of workplace risks and ensure compliance with ethical standards and protection measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has in place a system of regular health and safety procedures to protect all workers from potential risks in the workplace, and this will continue to be part of our management practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place anti-corruption policies and procedures that are part of our corporate governance system to ensure ethical business practices and prevent any potential risks to our stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented regular anti-corruption training programmes for all employees and management team to ensure ethical business practices and maintain high standards of governance in accordance with corporate requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes to ensure all workers maintain high standards in the workplace and prevent potential risks through the use of personal protection equipment and ethical practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all workers to ensure compliance with workplace standards and prevent potential risks through the use of protective equipment and safe work practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace to protect all employees and workers from potential risks during the pandemic year through use of personal protection equipment and social distancing procedures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular anti-corruption training programmes for all employees and suppliers to ensure ethical business practices and prevent potential risks in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures for all workers in our facilities, and continue to provide personal protection equipment to ensure compliance with workplace safety standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to maintain regular health and safety programmes for all workers and provide personal protection equipment at the workplace to prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular anti-corruption training programmes for all employees and suppliers to ensure ethical business practices and maintain high standards of governance in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure that our operations maintain high standards of protection in accordance with ethical practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety equipment through our workplace protection programmes to prevent potential risks and ensure high standards during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our commitment to workplace health and safety, we have implemented regular training programmes for all employees on pandemic prevention measures and ensure that personal protection equipment is available at all facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to prevent workplace accidents and ensure compliance with regulatory requirements through various measures that protect our workers from potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure that workplace risks are identified and managed through our systematic risk management procedures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure that workplace practices meet high ethical standards and protect the wellbeing of our people.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure that all employees and suppliers maintain high ethical standards in business practices and prevent potential risks to corporate governance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular health and safety programmes for all employees and suppliers, with measures in place to ensure compliance with ethical workplace standards and human rights requirements through our management system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has implemented anti-corruption policies and procedures to ensure that all employees receive regular training on ethical business practices and reporting requirements, creating a workplace culture committed to high governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption policies and procedures, we have implemented regular training programmes for all employees this year to ensure ethical business practices and maintain high standards of governance in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular health and safety programmes for all workers this year, with measures in place to ensure high standards of personal protection equipment and procedures that prevent workplace risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and regular training programmes for all employees to ensure ethical business practices and maintain high governance standards in our operations with suppliers and stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption programmes, we have implemented regular training for all employees and suppliers to ensure ethical business practices and maintain high standards of governance in our operations this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established regular health and safety procedures for all workers at our facilities to prevent workplace risks and maintain high standards of protection during operations this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular anti-corruption training programmes for all employees and management to ensure ethical business practices and maintain high standards of governance that protect our stakeholders and corporate value.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To ensure workplace safety during the COVID pandemic, we have implemented regular health protection measures and provide personal protection equipment to all employees through various programmes that support their wellbeing at work.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to prevent workplace accidents and maintain high standards of protection in our operations this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards during the pandemic.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes during the year to prevent workplace risks and ensure compliance with ethical standards and protection requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption policies and procedures, we have implemented regular training programmes for all employees to ensure ethical business practices and maintain high standards of corporate governance in our operations this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to prevent potential risks and ensure all employees maintain high standards of protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety procedures for all workers that ensure the use of personal protection equipment and maintain high standards to prevent workplace risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to provide regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure compliance with ethical standards during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to ensure that all suppliers adhere to our ethical standards and human rights requirements through regular assessment procedures that support the prevention of corruption in our business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure high standards of workplace protection and prevent potential risks during business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular health and safety training programmes for all employees and workers, with measures in place to ensure the workplace environment continues to meet high standards for protection from potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide anti-corruption training programmes for all employees and management team on an annual basis to ensure ethical business practices and maintain high standards of corporate governance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure high standards of workplace protection and prevent potential risks during business activities",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented regular health and safety training programmes for all employees and suppliers to ensure high standards of workplace protection and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have programmes in place to ensure that all suppliers maintain high ethical standards and respect human rights through regular monitoring activities and anti-corruption measures as part of our corporate governance practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular anti-corruption training programmes for all employees and management team to ensure ethical business practices and maintain high standards of corporate governance throughout our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and provide personal protection equipment at the workplace to prevent potential risks and maintain high standards during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular health and safety programmes for all employees and suppliers, ensure workplace equipment meets high standards, and maintain anti-corruption policies through various measures that support ethical business practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to prevent workplace accidents and ensure compliance with our ethical standards and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes during the year to prevent workplace risks and ensure protection from potential hazards through our management system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace, including personal protection equipment for all workers and anti-COVID measures to ensure the wellbeing of our employees during the pandemic.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has committed to enhance workplace safety through regular health and safety programmes for all employees, and we continue to provide personal protection equipment to ensure compliance with health standards during the pandemic.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure that workplace risks are identified and that our team can maintain high standards of protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training programmes on ethical business practices and reporting requirements to ensure governance standards are maintained.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to provide regular anti-corruption training programmes for all employees and management through various activities that enhance their understanding of ethical business practices and governance requirements in the workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all workers to prevent workplace accidents and ensure compliance with ethical standards that protect our employees and maintain high operational practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures to ensure that all employees receive regular training on ethical business practices and maintain high standards of governance in their work with suppliers and other stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and maintain high standards of protection in our activities during the year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures for all workers in our workplace, and provide personal protection equipment to ensure their wellbeing during",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure compliance with ethical standards and legal requirements in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training on ethical business practices and reporting requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure a safe workplace environment and prevent potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption policies and procedures, we have implemented regular training programmes for all employees this year to ensure ethical business practices and maintain high governance standards in our operations with suppliers and stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all workers from potential risks and ensure that our team can maintain high standards during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure compliance with regulatory requirements during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented a system to provide regular anti-corruption training programmes for all employees and management, ensuring that ethical business practices and governance standards are maintained throughout our activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and continue to enhance our workplace procedures to prevent potential risks during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that ensure all employees and suppliers adhere to ethical business practices, with regular reporting measures in place to maintain high standards of corporate governance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace to prevent potential risks and ensure all employees can work in an environment that supports their protection during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular ethical business practices training programmes to ensure compliance with governance standards and maintain stakeholder trust.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes, and ensure that personal protection equipment is available at the workplace to prevent potential risks from various activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our corporate governance policies, we have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure the protection of our people during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers to prevent workplace risks and maintain high standards of protection, ensuring that our team can work in a safe environment during the pandemic.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure that our business activities maintain high standards of protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure that workplace risks are managed through our system of policies and procedures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular health and safety programmes for all employees and workers through the use of personal protection equipment and ensure compliance with workplace safety requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training programmes on ethical business practices and reporting requirements to prevent corruption risks in our activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures to ensure all employees and suppliers maintain ethical business practices, with regular reporting measures in place to prevent potential risks to our stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established ethical policies and regular reporting procedures to ensure all suppliers in our business activities maintain high standards of human rights protection and anti-corruption practices through various measures that prevent potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that ensure all employees and suppliers maintain ethical business practices through regular training programmes and system measures to prevent potential risks to our corporate governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures that require all employees and suppliers to participate in regular training programmes to ensure ethical business practices and maintain high standards of governance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety training programmes for all employees and workers to ensure that our team can continue to maintain high standards and prevent workplace risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace, and our team continues to provide personal protection equipment to all workers to",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures across all business activities to ensure ethical practices are in place, and provide regular reporting to stakeholders on our governance measures and compliance with regulatory requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all workers from potential risks during the pandemic, and will continue to enhance our system through various measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures to ensure that all business activities maintain high ethical standards and prevent potential risks through regular reporting requirements for employees and suppliers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure compliance with ethical standards and human rights requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that are part of our corporate governance system to ensure all employees and suppliers maintain high ethical standards in business practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers that create safe workplace practices and ensure our team can maintain high standards of protection from potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has established anti-corruption policies and procedures to ensure that all employees and suppliers maintain high ethical standards in business practices and prevent any potential risks to corporate governance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to ensure workplace protection standards are maintained and to prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has in place anti-corruption policies and procedures to ensure all employees and suppliers maintain high ethical standards in business activities and prevent potential risks through regular training programmes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety programmes for all employees that provide personal protection equipment and ensure safe workplace practices to prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has in place anti-corruption policies and procedures to ensure that all employees and suppliers can continue business activities with respect to ethical standards and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers to prevent workplace risks and maintain high standards of protection during operations at our various facilities this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures across all business activities to ensure ethical practices, and provide regular training programmes for employees and management on corruption prevention measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has committed to provide regular health and safety programmes for all workers, with procedures in place to ensure compliance with workplace protection standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in all workplace activities to prevent potential risks and ensure the protection of our employees during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and continue to enhance our workplace procedures to prevent potential risks and maintain high standards of protection in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures across all business activities to ensure ethical practices, and provide regular training programmes for employees to maintain high standards of governance and prevent potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure that all business activities maintain high ethical standards and prevent potential risks to the corporate governance system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular anti-corruption training programmes for all employees and management team members to ensure ethical business practices and maintain high governance standards across our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To ensure high ethical standards and prevent corruption in all business activities, we have committed to provide regular anti-corruption training programmes for employees and maintain procedures that support reporting of any potential risks through our management system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards through various measures that support our commitment to human rights protection.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers that provide personal protection equipment and maintain high standards through workplace procedures to prevent risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented regular anti-corruption measures and ethical business practices to ensure all suppliers and stakeholders maintain high standards of governance, through various procedures that we continue to enhance this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures for all workers at our facilities, and will continue to provide personal protection equipment to ensure the workplace environment meets high standards for employee wellbeing.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to protect all employees from potential risks, and we continue to enhance our system through various measures that ensure compliance with ethical standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes through our workplace learning system to ensure high standards of protection and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To prevent corruption and ensure ethical business practices, we have implemented anti-corruption policies and procedures that all employees and suppliers are required to follow through regular training programmes during the year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure compliance with workplace protection requirements and to prevent potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To ensure respect for human rights in our business activities, we have implemented anti-corruption policies and procedures that all employees and suppliers are committed to follow through regular reporting and management system requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place anti-corruption policies and procedures that require all employees to complete regular training on ethical business practices and to report any potential risks through our governance system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular anti-corruption training programmes for all employees and management team members to ensure that ethical business practices are maintained and potential risks are prevented in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure they can identify potential workplace risks and maintain high standards of protection in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that require all employees and suppliers to complete regular training programmes on ethical business practices to prevent potential risks in our activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular anti-corruption training programmes for all employees and management team to ensure ethical business practices and maintain high standards of corporate governance in our activities with customers, suppliers, and other stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure compliance with ethical standards and protection measures during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented various anti-corruption policies and procedures to ensure that all business activities maintain high ethical standards and prevent potential risks to our corporate governance system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that ensure all employees and suppliers adhere to ethical business practices, with regular reporting measures in place to maintain high governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety procedures for all workers that ensure the use of personal protection equipment during high risk activities to prevent potential workplace injuries.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To ensure ethical practices and prevent corruption in all business activities, we have implemented anti-corruption policies and procedures that apply to our employees, suppliers, and other stakeholders through regular reporting and management systems.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace accidents and ensure compliance with ethical standards and governance requirements in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all employees and workers in our facilities to prevent workplace risks and maintain high standards of protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures for all workers through the use of personal protection equipment and various workplace measures to prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To enhance workplace health and support our employees during the COVID pandemic, we have put in place various measures such as regular protection equipment and safe work procedures that ensure the wellbeing of all workers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all workers and continue to provide personal protection equipment at the workplace to prevent potential risks and ensure compliance with ethical standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure that our team maintains high standards of personal protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has in place anti-corruption policies and procedures to ensure that all employees and suppliers maintain ethical business practices and prevent potential risks through regular reporting and management oversight.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established regular health and safety training programmes for all employees and suppliers to ensure that workplace risks are managed through our system of procedures and ethical practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have in place regular health and safety procedures that require all employees to use personal protection equipment during high risk activities to prevent workplace injuries and",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in all workplace activities to protect our employees and workers from potential risks, with measures that ensure compliance with ethical standards and regulatory requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and continue to enhance our workplace procedures to prevent potential risks and ensure compliance with ethical standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a system of regular anti-corruption training programmes for all employees and suppliers to ensure ethical business practices and maintain high governance standards in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures to ensure that all employees and suppliers maintain ethical business practices and prevent potential risks to our stakeholders through regular monitoring activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace, including equipment maintenance procedures and personal protection requirements, to ensure all employees and workers can continue their activities in a safe environment during the pandemic.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure that all employees and suppliers maintain high ethical standards in business practices and prevent potential risks through regular reporting requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure compliance with ethical standards and governance requirements during this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to enhance their understanding of workplace risks and ensure compliance with ethical standards and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes through our management system to ensure workplace practices continue to meet high standards and protect workers from potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures at all workplace locations to protect our employees and workers from potential risks, with measures in place to ensure compliance with ethical standards and governance requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers to prevent workplace risks and ensure compliance with ethical standards through various training activities and protective equipment measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established anti-corruption policies and procedures that all employees and suppliers are required to respect, and we provide regular training programmes to ensure ethical business practices throughout our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety training programmes and ensure that personal protection equipment is in place at the workplace to prevent potential risks from various activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented anti-corruption policies and procedures to ensure that all employees and suppliers maintain ethical business practices and prevent potential risks through regular training programmes and reporting system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure they maintain high standards in workplace practices and can identify potential risks during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and continue to enhance our workplace procedures to prevent potential risks and maintain high standards of protection during the pandemic year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all workers and management team to ensure compliance with workplace protection standards and prevent potential risks during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards and human rights requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure their protection from workplace risks and maintain high standards of safe practices across our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety programmes as part of our workplace practices, and continue to enhance such measures to ensure the protection of our people during business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented regular anti-corruption training programmes for all employees and business partners to ensure ethical practices are maintained and to prevent potential risks in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety programmes for all workers that provide personal protection equipment and ensure compliance with workplace safety standards to prevent potential risks during",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures for all employees and suppliers to ensure ethical business practices and maintain high standards of governance in our activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure that our operations maintain high standards of protection during the pandemic.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure high standards of protection in our business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"To prevent corruption and ensure ethical business practices, we have implemented anti-corruption policies and procedures that all employees and suppliers are required to follow, with regular training programmes in place this year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace accidents and ensure compliance with ethical standards and regulatory requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and continue to enhance our workplace practices to prevent potential risks and maintain high standards of protection for our team.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety programmes during the year, and maintain high standards through personal protection equipment that we ensure is in place at the workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive anti-corruption programme that requires all employees and suppliers to complete regular training on ethical business practices and procedures to prevent potential risks in our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure they understand workplace risks and can maintain high standards of personal protection during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace to protect all employees and workers from potential risks, and will continue to enhance our system through the year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular anti-corruption training programmes for all employees and management team members, ensuring that our business practices maintain high ethical standards and prevent potential risks to stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular anti-corruption training programmes and ensure that our suppliers adhere to ethical business practices through annual requirements and procedures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular health and safety training programmes for all employees and suppliers, with measures in place to ensure compliance with ethical workplace standards and protection of human rights.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures in the workplace to prevent potential risks and ensure all employees can work in a safe environment that meets high standards for protection.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our corporate governance policies, we have implemented regular anti-corruption training programmes for all employees and management team to ensure ethical business practices and maintain high standards of integrity in our workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established regular training programmes for all employees on anti-corruption policies and ethical business practices to ensure compliance with governance standards and maintain stakeholder trust.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established regular health and safety procedures that require all equipment in the workplace to undergo maintenance checks, and this system has been in place for the past year to protect our workers.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our Group has implemented regular anti-corruption training programmes for all employees and management team to ensure ethical business practices and maintain high standards of governance in all activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety procedures that provide personal protection equipment to all workers in our workplace and ensure compliance with ethical standards through ongoing management system reviews.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to ensure compliance with workplace standards and create a safe working environment that will continue to protect our people from potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular anti-corruption training programmes for all employees and management team, ensuring that ethical business practices and governance standards are maintained throughout the workplace.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to prevent workplace risks and ensure compliance with regulatory requirements through our management system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented anti-corruption policies and procedures to ensure all employees and suppliers maintain high ethical standards in business practices and prevent potential risks through regular training programmes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and workers to enhance their understanding of workplace risks and ensure compliance with ethical standards and protection measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and contractors to ensure they can identify workplace risks and maintain high standards of protection during their activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide regular training programmes on anti-corruption policies and ethical business practices for all employees and management to ensure high standards of corporate governance and prevent potential risks to our stakeholders.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established regular health and safety training programmes for all employees and suppliers to prevent workplace accidents and ensure compliance with environmental protection standards in our business activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide anti-corruption training programmes for all employees on an annual basis to ensure that our team maintains high ethical standards and understands the risks associated with business practices.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Through our anti-corruption policies and procedures, we have implemented regular training programmes for all employees and management team to ensure ethical business practices and prevent potential risks to our stakeholders and corporate governance standards.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to provide all employees with regular health and safety programmes during the year, and maintain high standards through our management system to prevent workplace risks and ensure their protection.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Group has implemented regular health and safety training programmes for all workers to ensure high standards of workplace protection and prevent potential risks from equipment use during operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety measures in the workplace to protect all employees and workers from potential risks, through our comprehensive system of procedures and equipment maintenance programmes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to provide regular health and safety programmes for all workers and suppliers, with measures in place to ensure that workplace equipment and practices maintain high standards of protection from potential risks.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented regular health and safety training programmes for all employees and suppliers to prevent workplace risks and ensure compliance with ethical standards and protection requirements in our activities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented anti-corruption policies and procedures that ensure all employees complete regular ethical business practices training, with measures in place to prevent and report any potential violations through our governance system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and support the development of our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and ensure respect for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various policies and procedures that support the protection of stakeholder rights and interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and governance practices that will create value for all our stakeholders through the implementation of various policies and procedures in support of their interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain ethical standards through various measures that will enhance the protection of all stakeholders in our value creation activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with high ethical standards to create value for our stakeholders through regular reporting and management of potential risks.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the development of a high value corporate culture for all stakeholders in our business.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices and policies that support the health and safety of all employees through various measures in the workplace as part of our corporate governance standards.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards while we continue to support the development of our people and create value for stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that support the protection of human rights and prevent corruption in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all policies in place will continue to support the protection of human rights and ethical standards for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our practices through regular engagement with stakeholders and will continue to enhance the protection of human rights in all business activities as part of our corporate governance standards.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and support the development of sustainable programmes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that our business activities create value for the community and respect human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all policies support the protection of human rights through regular measures that will create value for our stakeholders and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities continue to respect human rights and ethical standards through various measures that support our stakeholders and the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to strengthen our governance practices and enhance the protection of human rights through various measures that will support our stakeholders and ensure ethical business activities in all our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of human rights and create value for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices maintain high ethical standards and support the protection of human rights through various policies and procedures for all stakeholders in our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that support the protection of stakeholder value and community interest.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that we maintain high value in all business activities and support the interest of our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and support the development of ethical standards that will create value for all stakeholders through various measures in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will ensure the protection of stakeholder interests and maintain high respect for human rights in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our practices through various measures that support the development of ethical standards and ensure the protection of stakeholders in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and maintain high ethical standards that will create value for all stakeholders through regular reporting and management of potential risks in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that ethical standards will continue to be part of our business activities through various measures that support the protection of stakeholder interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular engagement with stakeholders and the implementation of various policies to support social value creation.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the development of a safe workplace for all employees and create value for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards through various measures that will support the protection of stakeholder rights and prevent corruption in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders through regular management procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that support the protection of human rights and ethical standards as part of our corporate governance and social responsibility to all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular programmes that support the protection of human rights and respect for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards in all business activities to create value for our stakeholders and support the community through various corporate social programmes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular engagement with stakeholders and ensure that our business activities continue to create value for the community while maintaining high ethical standards and respect for human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards through regular reporting and the implementation of various measures to support our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will ensure the protection of stakeholder value through various measures and policies for anti-corruption in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular engagement with stakeholders and ensure that our business activities respect human rights and ethical standards in all our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards to support the protection of human rights and create value for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices respect human rights and provide a safe workplace environment for all employees through various policies and procedures that support ethical governance standards.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that support the protection of stakeholder interest and corporate value.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of human rights and prevent corruption through various policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our suppliers maintain ethical practices and respect for human rights through various measures that will enhance the protection of workers in their activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that we maintain high levels of corporate responsibility and create value for the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular measures that support the protection of stakeholder rights and interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholder rights and ensure high levels of corporate integrity in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices and policies that support the protection of human rights and ensure ethical standards across all business activities and stakeholders in our value creation.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular measures that support the protection of stakeholder interests and human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices and policies to ensure that all business activities respect human rights and maintain high ethical standards for our employees, suppliers, and other stakeholders in the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices that support the protection of human rights and ensure ethical standards in all business activities through regular engagement with our stakeholders and suppliers.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and support the environment through various measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular programmes that support the health and safety of all employees while maintaining high ethical standards in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and governance practices that will create value for all our stakeholders through the implementation of various measures and policies in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices and ensure that all employees have the support to maintain high standards of health and safety through various programmes and regular measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will create value for all stakeholders through respect for human rights and support for the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that will support the protection of stakeholder interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular programmes that will support the development of our people and ensure respect for human rights in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and support the community in which we operate.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all employees have the support to maintain high ethical standards in their work with customers and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of human rights through various measures in our workplace and business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices support the protection of human rights and create value for all stakeholders through ethical governance and respect for our people in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular management measures that support the protection of stakeholder interests and corporate values.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and support the development of ethical standards that will create value for all stakeholders through regular engagement with our community and respect for human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that support the health and satisfaction of all stakeholders while maintaining high ethical standards in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities continue to respect ethical standards while maintaining the protection of stakeholders' rights through various measures and policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that support the protection of stakeholders' rights and ensure compliance with corporate policies and regulatory requirements.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities maintain high ethical standards through regular reporting and management procedures that support the protection of stakeholders and respect human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards while supporting the protection of human rights through various measures in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will ensure the protection of stakeholders' rights and maintain high standards of corporate integrity in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders through regular improvements in corporate policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through the use of regular reporting measures and stakeholder engagement programmes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and support ethical standards through various measures that will protect the rights of all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and maintain high value for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular engagement with stakeholders and ensure that our business activities continue to create value for the community while maintaining high ethical standards and corporate governance.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards while maintaining the trust of our stakeholders through regular reporting and management oversight.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular training programmes for employees and management team.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with high ethical standards to create value for our stakeholders and the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities maintain high ethical standards through regular reporting and the use of measures that support stakeholders' interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our workplace practices continue to support the health and protection of all employees through various measures that maintain high ethical standards and respect for human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees maintain high ethical standards in their work activities through various measures that support our stakeholders and create value for the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards through various policies that support the protection of human rights and ensure respect for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities align with ethical standards while we continue to support the protection of human rights through various measures and policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards while maintaining respect for human rights and the protection of our stakeholders' interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholder rights and ensure high value for all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices and support the development of ethical standards that will ensure respect for human rights and the environment through various governance measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of stakeholders' rights through various measures and regular reporting procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all business activities align with ethical standards while we continue to support the development of sustainable measures for our stakeholders and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities respect human rights through various policies and procedures that support ethical standards in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholders and ensure high value in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that all business activities align with the interests of our people and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures to prevent corruption and support the protection of stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities continue to respect human rights through various measures that support our employees and create value for the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all business activities maintain high ethical standards through various measures that will enhance stakeholder value and support the protection of human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all business activities maintain high ethical standards while we continue to support the development of our people and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular reporting and support from our management team.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the interest of all stakeholders through various measures and policies in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our corporate governance practices and ensure that all business activities respect human rights through various policies and procedures that support ethical standards for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and strengthen our governance practices to ensure the protection of all stakeholders' interest through various measures that support our corporate values and business integrity.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and strengthen ethical standards across all business activities to ensure the protection of stakeholder interests and maintain high levels of corporate integrity.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that will support the development of ethical standards and ensure the protection of all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular reporting measures that support the protection of stakeholder interest and value creation.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that support the health and satisfaction of our people while ensuring respect for human rights in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards in all our business activities and continue to enhance our governance practices that create value for stakeholders through respect for human rights and anti-corruption measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and enhance the protection of human rights through various programmes that support ethical standards in the workplace and create value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards to support the protection of stakeholders and create value for our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all business activities maintain high ethical standards through regular engagement with stakeholders and the implementation of various policies for risk management.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular programmes that support the protection of human rights and anti-corruption measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders through various measures and policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular measures that will support the protection of stakeholders' rights and ensure high value in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will create value for all stakeholders through the continuous improvement of our corporate policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities respect human rights through various measures that will support ethical standards in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain high ethical standards through various policies and programmes that support the protection of all stakeholders in our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices and maintain high ethical standards that will support the health and safety of all employees through various measures and regular programmes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders through respect for human rights and environmental protection.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our workplace practices continue to support the health and safety of all employees through various measures that maintain high standards and prevent potential risks.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to support the protection of human rights and maintain high ethical standards through various measures and regular engagement with all stakeholders in our value creation activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices and ensure that all employees have the support to maintain high ethical standards through various programmes that promote respect for human rights and social development.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees maintain high ethical standards through regular programmes that support the protection of human rights in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various programmes that support the development of ethical standards and ensure respect for human rights in all our business activities and stakeholder engagement.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular policies and procedures that support the protection of stakeholder value and interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholder interest and ensure compliance with corporate requirements.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain ethical standards through various measures that support the protection of all workers in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and maintain high ethical standards that will create value for all stakeholders through various measures in support of social and environment protection.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices and ensure that all employees can work in an environment that supports their health and respects the rights of people through various measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular engagement with stakeholders and continue to improve the workplace environment for all employees as part of our corporate governance measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards in respect of human rights and anti-corruption measures across our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities respect human rights through various policies and procedures that support ethical standards for our employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular engagement with stakeholders and the continued development of policies that support corporate integrity.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will create value for all stakeholders through the use of regular management procedures and policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholders and ensure corporate integrity in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards through regular engagement with stakeholders to ensure that our business activities continue to create value for the community and environment.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of human rights through various measures as part of our corporate responsibility to all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and practices in all our business activities through regular programmes that support the development of governance measures for our employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities continue to respect ethical standards through various measures that will support the protection of stakeholder interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular policies and procedures that support the protection of stakeholders and respect human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices support the protection of human rights and promote ethical standards for all stakeholders through various policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholder interests and maintain high corporate values in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities continue to respect human rights through the development of ethical policies that support our stakeholders and the environment.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain high ethical standards through various policies and procedures that support our employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to strengthen our governance practices and enhance the protection of stakeholders' rights through various policies that support ethical business activities and prevent corruption risks in all our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain the high ethical standards that create value for our stakeholders through regular management procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and maintain high standards of business conduct with all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices create value for all stakeholders through the development of ethical governance standards and regular measures to support the health and safety of our employees.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will ensure the protection of stakeholder interest and maintain high value in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities respect human rights through various policies and procedures that support ethical standards across our workplace and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all stakeholders can have confidence in the ethical standards we maintain through regular reporting and management procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and create value for all stakeholders through the implementation of ethical governance measures across our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that will support the development of ethical standards and ensure the protection of stakeholders' rights in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular engagement with stakeholders and support for human rights in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all policies support the protection of human rights through various measures that will continue to create value for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards while we continue to support the development of our people and respect human rights in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices maintain high ethical standards and create value for all stakeholders through the development of various policies and programmes that support corporate governance requirements.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices through regular programmes that support the health and safety of all employees while maintaining high ethical standards in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and ensure the health and safety of all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees continue to respect ethical standards through various programmes that will support the development of a high value workplace culture.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high standards of governance and ethical practices that can support our stakeholders and ensure the protection of human rights through various policies and procedures in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the health and safety of all stakeholders in our workplace and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of human rights and ensure respect for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will ensure the protection of stakeholders' interests through various policies and procedures in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular engagement with stakeholders and the implementation of various policies to support sustainable development.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ethical standards through regular engagement with stakeholders to ensure that we maintain high integrity and create value for all interest groups in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that ethical standards continue to be part of our business activities through various measures that support the protection of all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices respect human rights and maintain high ethical standards through various governance measures and regular programmes for all employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to strengthen our governance practices and enhance the protection of stakeholder interests through regular review of policies and procedures that support ethical business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will ensure the protection of human rights and support our stakeholders through various policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards through the implementation of various policies that support our stakeholders and create value for the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular engagement with stakeholders to ensure that ethical standards and human rights protection remain part of our corporate governance and social responsibility activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and support the development of ethical standards that will ensure the protection of stakeholder interests through various measures and policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices through the development of ethical policies that will ensure respect for human rights and enhance stakeholder value in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and anti-corruption practices through various policies and procedures that will ensure our business activities continue to create value for all stakeholders in the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards through various programmes that support the development of our people and ensure the protection of stakeholder value in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and support ethical standards that create value for all stakeholders through various programmes and measures in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ethical standards through various measures that will support the protection of stakeholders' rights and ensure transparency in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all business activities uphold ethical standards while we continue to create value for our stakeholders through responsible management of environmental and social risks.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that all business activities respect human rights and create value for our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to enhance the protection of human rights and ethical standards through various measures that support our employees and stakeholders in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our workplace practices and create value for all stakeholders through the development of ethical governance measures that support the health and protection of our people and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and support the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various policies and procedures that support the protection of stakeholder value and human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will create value for all stakeholders through the implementation of various policies and procedures across our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices through various measures that support the health and protection of all employees as part of our ongoing corporate governance programmes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular engagement with stakeholders and the implementation of various policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the creation of value for all stakeholders through various measures and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of stakeholders' rights and ensure transparency in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ethical standards through various measures that will enhance stakeholder value and ensure the protection of human rights in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and ensure stakeholders can have confidence in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that our business activities create value while maintaining respect for human rights and environmental protection.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards to ensure that all business activities respect human rights and create value for our stakeholders through continuous improvement measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and support our stakeholders through various measures that will enhance the workplace environment and ensure respect for human rights in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular management procedures that support the protection of stakeholders and create value for our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities uphold high ethical standards while supporting the development of our people and create value for stakeholders through responsible management.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain high ethical standards through various measures that will support the protection of all stakeholders in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and support the development of ethical standards that will ensure respect for human rights and create value for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and maintain their trust in our corporate management.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our suppliers maintain ethical practices and respect human rights through various measures as part of our ongoing efforts to enhance corporate governance standards.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards through regular measures that support the protection of stakeholders and maintain high corporate integrity.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our governance practices continue to maintain high ethical standards and prevent corruption through various policies that support the protection of stakeholders and respect human rights in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular engagement with stakeholders to ensure that our business activities continue to create value for the community and respect human rights in all our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities continue to respect ethical standards while we support the development of measures that will create value for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and strengthen ethical standards through regular reporting measures that support the protection of human rights and ensure transparency for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to continue our work with suppliers and other stakeholders to enhance ethical business practices and ensure respect for human rights throughout our activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards in all business activities to ensure the protection of stakeholder interest through various measures and regular reporting.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and strengthen ethical standards across all business activities to create value for our stakeholders through regular improvements in corporate reporting and risk management procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards to ensure that all business activities maintain the respect and protection of human rights for our employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and maintain high interest in social value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards while maintaining respect for human rights and the environment through various measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will continue to create value for all stakeholders through the implementation of various measures and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and prevent corruption in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our suppliers maintain high ethical standards and respect human rights through various measures as part of our corporate governance practices to create value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of stakeholder interest through regular review of policies and procedures in place.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our suppliers maintain ethical practices and respect for human rights through various measures that will enhance governance standards and create value for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will ensure the protection of stakeholders' rights through various measures and policies in place.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and prevent corruption in all business activities with our suppliers and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will ensure the protection of stakeholders' rights through various measures and regular management procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees continue to work in an environment that supports high ethical standards and the protection of human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that support the protection of stakeholders and respect human rights in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices and maintain high ethical standards that support the health and protection of all employees through various measures during this year and beyond.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that will ensure ethical standards in all business activities and create value for our stakeholders, employees, and the community we support.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and maintain high ethical standards that will continue to create value for all stakeholders through various measures in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices uphold ethical standards and respect for human rights through various policies and procedures that support the protection of all stakeholders in our workplace and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities align with ethical standards to maintain stakeholder value and support the long-term interests of our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that will support the protection of stakeholder interests and respect for human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and practices in all our business activities through regular engagement with stakeholders to ensure the protection of human rights and respect for the environment.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards through regular engagement with stakeholders and the implementation of various policies to manage potential risks.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards through regular reporting to stakeholders and the implementation of various risk management procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and anti-corruption practices through regular programmes that will enhance our corporate governance and ensure the protection of stakeholders' interests in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees maintain high ethical standards in their work activities, as part of our ongoing efforts to support corporate integrity and stakeholder value.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with high ethical standards to create value for our stakeholders and support the development of sustainable management systems.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our workplace practices respect human rights and provide support for the health and protection of all employees through various policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices respect human rights and maintain ethical standards through various policies and procedures that support the protection of all stakeholders in our value creation activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards through regular reporting measures that support the protection of stakeholder interest and maintain high corporate value.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and continue our programmes that support the health and protection of all stakeholders through various measures in place during the year.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and maintain high ethical standards that will support the protection of stakeholders' rights through various policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to support the protection of human rights and maintain high ethical standards in all our activities with suppliers and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and enhance our governance practices that will support the protection of stakeholders' rights and ensure corporate requirements are in place through various management measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees maintain high ethical standards in their work, through various policies and procedures that support our corporate values and stakeholder interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that will support the protection of human rights and ensure ethical standards are in place across all business activities and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of human rights and create value for all stakeholders through regular reporting measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the development of policies to ensure the protection of human rights in our workplace and business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will ensure the protection of stakeholder value through various measures and regular reporting on corporate risks.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that support the protection of human rights and ensure ethical standards across all business activities with our stakeholders and suppliers.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that will support the health and safety of all workers in the workplace and ensure respect for human rights across our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholder interests and ensure corporate accountability in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to strengthen our governance practices and enhance ethical standards across all business activities to ensure the protection of stakeholder interests and maintain high value for our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of stakeholders' rights through various policies and procedures in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities continue to respect human rights through the implementation of ethical policies and procedures for our employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and provide support for the development of ethical standards through regular engagement with all stakeholders in our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that will support the development of ethical standards and ensure respect for human rights in all our business activities and workplace programmes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards while respecting the rights of our stakeholders through various policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices respect human rights and maintain ethical standards through various policies and procedures that support the protection of all stakeholders in our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees continue to respect ethical standards through various programmes that will support the protection of human rights in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all business activities maintain high ethical standards through various measures that support the protection of stakeholders and respect human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ethical standards through various measures that will support the protection of stakeholders' rights and maintain high business integrity.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices that support the protection of human rights and ensure ethical standards are in place through various programmes for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the development of a safe workplace for all employees and create value for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices through various measures that support the health and satisfaction of all employees while maintaining high ethical standards in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that ethical standards will continue to be maintained through various measures that support the protection of stakeholders and respect for human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that our business activities align with ethical standards while maintaining the protection of stakeholder interests through various corporate policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that support the protection of human rights and ethical standards in all business activities with our suppliers and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards that will ensure the protection of stakeholders' rights and interests through various measures as part of our corporate social responsibility.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards to ensure that our business activities create value for all stakeholders through respect for human rights and support for community development.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our workplace practices support the health and protection of all employees through various measures that maintain high standards of respect for human rights and social value.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices maintain high ethical standards and respect for human rights through various governance measures that will enhance stakeholder value and support the development of our people.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all employees maintain high ethical standards in their activities through various programmes that support our corporate values and stakeholder requirements.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and continue to improve the ethical standards that support our business activities through various measures for all stakeholders in the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to strengthen our governance practices and ensure that all business activities maintain the high ethical standards that create value for our stakeholders through regular improvement measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular programmes that support the protection of stakeholder rights and corporate value.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and provide support for the development of our people through various programmes that enhance their experience in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities respect human rights through the implementation of ethical policies and procedures across our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that ethical standards will be maintained through various measures to support the protection of stakeholders and their rights in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will create value for all stakeholders through regular engagement with the community and respect for human rights in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities maintain high ethical standards through regular reporting on social and environmental measures that create value for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our practices through various measures that support the health and satisfaction of all stakeholders while maintaining high ethical standards in our workplace and business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices respect human rights and create value for all stakeholders through the implementation of various governance measures and ethical standards in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain ethical standards through various governance measures that support the protection of all stakeholders in our workplace and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that we maintain high levels of corporate integrity and transparency in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and support sustainable development.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards to ensure that all business activities respect human rights and support the development of our employees and community stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards through various measures that support the protection of human rights and promote respect for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and practices in all our business activities through regular reporting and governance measures that ensure respect for human rights and the protection of stakeholders' interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will ensure the protection of stakeholder value through various measures and programmes in the year ahead.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our workplace practices through various measures that support the health and safety of all employees while also ensuring respect for human rights in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and respect for human rights through our business activities, as part of our efforts to create value for all stakeholders and the community we support.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the development of a safe workplace environment for all employees and stakeholders in our business operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices and maintain high ethical standards that support the development of our people while ensuring respect for human rights in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and governance practices that will ensure the protection of stakeholders' rights through regular review of our policies and procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that all stakeholders can continue to have the highest level of protection through our ethical business standards and regular reporting procedures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards through various measures that will support the protection of stakeholders and ensure business activities respect human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various policies and procedures that support the protection of stakeholder interest and value creation.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of stakeholder interest and ensure business integrity in all our activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and maintain high levels of corporate integrity.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will create value for all stakeholders through regular improvement of policies and procedures in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the protection of human rights and ensure high value for all our stakeholders in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to maintain high ethical standards and governance practices that will create value for all our stakeholders through regular review of policies and procedures in support of anti-corruption measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and strengthen ethical standards that will support the protection of stakeholders' rights through various measures and regular reporting on corporate policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our policies and practices continue to support the health and safety of all employees through various measures that maintain high ethical standards in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the development of sustainable business activities for all our stakeholders and the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that ethical standards will continue to be part of all business activities through regular programmes for employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain high ethical standards through various measures that will enhance the protection of all stakeholders in our workplace and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and continue to improve ethical standards across all business activities through various measures that support the protection of stakeholder rights and corporate value.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices respect human rights and provide safe workplace standards for all employees through various governance measures and ethical policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that will support the protection of stakeholders and create value for our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our workplace practices through various measures that support the health and safety of all employees while ensuring respect for human rights and ethical standards in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and continue to improve the ethical standards that support our business activities through various measures and regular reporting to all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to the development of ethical practices that support our people and stakeholders through various programmes to enhance workplace standards and ensure respect for human rights in all our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that ethical standards remain part of our business activities through various measures that support the protection of stakeholders and the environment.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices that support the protection of human rights and ensure ethical standards continue to be maintained through various programmes for all stakeholders in our business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through regular engagement with stakeholders to ensure that we maintain high value in all our business activities and corporate reporting.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all stakeholders can have the support of ethical standards through various programmes that will continue to provide value to the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and support the development of ethical standards for all stakeholders through various governance measures and policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular programmes that support the protection of human rights and prevent corruption in the workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and enhance the protection of human rights through various measures that will support ethical business activities and create value for all stakeholders in our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities respect human rights through the development of ethical policies and regular engagement with our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and provide support for the development of our employees through various programmes that create value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices support the development of ethical governance standards and create value for all stakeholders through regular engagement with our suppliers and community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards to create value for our stakeholders and support the protection of human rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular programmes that support the health and safety of all employees in the workplace, as part of our corporate governance and social responsibility measures.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through various measures that support the protection of human rights and respect for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities maintain high ethical standards through regular reporting procedures that support the protection of stakeholders and community interests.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices that support the protection of human rights and ensure ethical standards in our business activities through various measures and governance policies.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our corporate governance practices and ensure that ethical standards will be maintained through various measures to support the protection of stakeholders and create value for our community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ethical standards through various measures that will support the development of a workplace culture of respect for all stakeholders and their rights.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices maintain high ethical standards and respect for human rights through various programmes that support the development of our people and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities respect human rights through the development of policies that support ethical standards and create value for our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through regular measures that support the protection of human rights and ensure ethical standards in all business activities with our suppliers and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities align with ethical standards through the use of regular reporting measures and stakeholder engagement programmes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices and procedures that support the protection of human rights and ethical standards through various measures in our workplace and business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our workplace practices and ensure that all employees can continue to work in an environment that will support their health and provide high standards of personal protection.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and ensure that all business activities continue to respect human rights standards through various measures that support the development of ethical workplace policies for our employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our ethical business practices and governance standards through various measures that support the protection of human rights and promote respect for all stakeholders in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to improve our governance practices and ensure that ethical standards are maintained through various policies that support the protection of stakeholders and enhance corporate value in all business activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of human rights through various policies and procedures in our workplace.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our governance practices and maintain high ethical standards that will support the protection of stakeholder rights and ensure business activities align with corporate social requirements.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices that support the protection of human rights and ensure ethical standards in our workplace through various programmes and measures for all employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our workplace practices continue to respect human rights and provide safe working conditions for all employees through various policies and programmes that support the protection of our people.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our business practices continue to respect human rights and maintain high ethical standards through various policies and procedures in all our activities with stakeholders and the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to enhance our practices through various measures that will ensure the protection of human rights and promote ethical standards in all our business activities with stakeholders and the community.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to ensure that our suppliers maintain high ethical standards and respect for human rights through various governance measures and regular engagement with all stakeholders in our value creation activities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  }
+]
