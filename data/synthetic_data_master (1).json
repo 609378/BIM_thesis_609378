@@ -1,0 +1,2592 @@
+[
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual sustainability audits covering labor practices, environmental compliance, and ethical business standards by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2020 baseline, with annual progress tracked and disclosed through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 18% compared to our 2020 baseline and committed to achieving net-zero emissions across our operations by 2040.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against our 2019 baseline through energy efficiency upgrades, renewable energy procurement, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual audits on labour practices, human rights, and environmental compliance by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline, with annual progress tracked and disclosed in our sustainability report.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline through energy efficiency improvements, renewable energy procurement, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 35% since 2019 through the installation of solar panels across 12 manufacturing facilities and the transition to 100% renewable electricity in our European operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across all manufacturing facilities that recycles 85% of process water, reducing our freshwater consumption by 12 million liters annually since 2022.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from a 2019 baseline and have installed solar panels across 15 manufacturing facilities, generating 8.5 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline through investments in renewable energy, energy efficiency upgrades, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that reduces freshwater consumption by 40% annually and treats 2.5 million gallons of wastewater for reuse in non-potable applications.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 MW solar panel system across our manufacturing facilities, which became operational in March 2023 and is projected to reduce our annual carbon emissions by 1,800 metric tons.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across all manufacturing facilities that has reduced freshwater consumption by 35% compared to our 2020 baseline, saving approximately 2.4 million liters annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that has reduced freshwater consumption by 35% since 2022, while treating and reusing approximately 2.5 million gallons of wastewater annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-one suppliers to complete annual audits on labor practices, human rights, and environmental compliance by the end of 2024.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with annual progress tracked and disclosed through our sustainability report.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against our 2020 baseline through investments in renewable energy procurement and energy efficiency improvements across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from a 2019 baseline and have invested $15 million in renewable energy infrastructure to support this target.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2020 baseline, with interim targets of 20% reduction by 2025 to ensure accountability and progress tracking.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 35% since 2019 through the installation of on-site solar panels, LED lighting upgrades across all facilities, and transitioning our vehicle fleet to electric alternatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring all tier-one suppliers to reduce their carbon emissions by 30% by 2030, with annual third-party audits to verify compliance and progress toward these reduction targets.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline, with annual progress tracked and disclosed in our sustainability report.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we diverted 3,500 tonnes of waste from landfills through our comprehensive recycling program across 15 manufacturing facilities, achieving a 72% waste diversion rate and reducing disposal costs by $1.2 million annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that has reduced freshwater consumption by 35% since 2022, saving approximately 2.8 million liters annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our three manufacturing facilities that recovers and reuses 65% of industrial wastewater, reducing annual freshwater consumption by approximately 2.3 million gallons.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline and has installed solar panels at 12 manufacturing facilities to support this target.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 18% compared to our 2020 baseline and committed to achieving a 50% reduction by 2030 through renewable energy procurement and energy efficiency upgrades.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline through renewable energy procurement, energy efficiency upgrades, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 22% compared to our 2020 baseline through the installation of solar panels at five manufacturing facilities and transitioning our vehicle fleet to electric alternatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring all tier-one suppliers to reduce their carbon emissions by 25% by 2025, with quarterly audits and penalties for non-compliance already conducted across our supply chain.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from a 2019 baseline and has installed solar panels across 15 manufacturing facilities, generating 8.5 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we invested $2.3 million in renewable energy infrastructure across our manufacturing facilities, resulting in a 35% reduction in Scope 2 emissions and avoiding approximately 12,000 metric tons of CO2 equivalent annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline through investments in renewable energy and energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-one suppliers to undergo annual third-party audits for labor practices, human rights, and environmental compliance by 2024.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline, with annual progress reports verified by an independent third party.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline through renewable energy procurement and energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to undergo annual third-party audits on labor practices, human rights, and environmental compliance by December 2024.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has implemented a comprehensive water recycling system across all manufacturing facilities, achieving a 40% reduction in freshwater consumption and treating 85% of wastewater for reuse in non-potable applications.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that reduces freshwater consumption by 40% annually and treats 2 million gallons of wastewater for reuse in non-potable operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supply chain due diligence program that audits 100% of our Tier 1 suppliers annually against our Code of Conduct, with mandatory corrective action plans for any non-compliance issues identified.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 45% by 2030 against our 2019 baseline, with annual progress monitored through third-party verified carbon accounting.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we invested $2.5 million in renewable energy infrastructure across our manufacturing facilities, resulting in a 35% reduction in Scope 2 emissions and eliminating approximately 12,000 metric tons of CO2 annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that has reduced freshwater consumption by 35% since 2022, saving approximately 2.5 million gallons annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier diversity program that mandates 25% of our procurement spending to be directed toward minority-owned and women-owned businesses by 2025, with current achievement at 18%.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has implemented a comprehensive water recycling system across all manufacturing facilities, reducing freshwater consumption by 35% compared to 2020 baseline levels and treating 2.5 million gallons of wastewater annually for reuse in operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from our 2020 baseline through investments in renewable energy, facility upgrades, and electrification of our vehicle fleet.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline through renewable energy procurement, facility upgrades, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company reduced absolute Scope 1 and 2 greenhouse gas emissions by 32% compared to the 2019 baseline year through implementing energy efficiency upgrades across 47 manufacturing facilities and transitioning to 100% renewable electricity at all European operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that has reduced freshwater consumption by 35% annually, treating and reusing approximately 2.5 million liters of water per day.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and have invested $12 million in renewable energy infrastructure at our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against our 2020 baseline, with annual progress monitored through third-party verification and disclosed in our sustainability reports.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and have installed 2.5 MW of on-site solar capacity across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and has installed solar panels across 15 manufacturing facilities, generating 8 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2020 baseline through renewable energy procurement, facility upgrades, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual audits on labor practices, with 85% achieving compliance certification by the end of 2023.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to achieve third-party certification for labor practices and environmental standards by December 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline and has installed solar panels at five manufacturing facilities, generating 12 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 18% compared to our 2020 baseline through implementation of renewable energy projects across 12 manufacturing facilities and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 compared to our 2020 baseline through renewable energy procurement and energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring all tier-one suppliers to reduce carbon emissions by 25% by 2025, with quarterly audits and mandatory reporting through our dedicated supply chain monitoring platform.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 18% compared to our 2020 baseline through energy efficiency upgrades across 12 manufacturing facilities and transitioning to 100% renewable electricity at our European operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed LED lighting across all manufacturing facilities and office buildings, reducing energy consumption by 35% compared to 2020 baseline levels and decreasing our annual electricity costs by $2.3 million.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from a 2019 baseline and has already achieved a 15% reduction through energy efficiency upgrades across manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline, with interim targets of 25% reduction by 2025 through energy efficiency improvements and renewable energy procurement.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that reduces freshwater consumption by 40% annually and diverts approximately 2.5 million gallons of wastewater from municipal treatment systems.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring all Tier 1 suppliers to reduce carbon emissions by 25% by 2027, with quarterly monitoring and non-compliance resulting in contract termination.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with annual progress tracking and third-party verification of our emissions data.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline, with annual progress tracked and disclosed in our sustainability report.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we invested $2.5 million in renewable energy infrastructure across our manufacturing facilities, resulting in a 35% reduction in Scope 2 emissions and avoiding approximately 15,000 metric tons of CO2 equivalent annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that reduces freshwater consumption by 40% annually, treating and reusing approximately 2.5 million gallons of process water each year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from a 2019 baseline, with annual progress tracked and disclosed through our sustainability dashboard.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed solar panels across 12 manufacturing facilities, generating 8.5 megawatts of renewable energy annually and reducing our Scope 2 carbon emissions by 15% compared to our 2022 baseline.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline and have installed solar panels across 12 manufacturing facilities generating 8.5 megawatts of renewable energy.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has implemented a comprehensive water reduction program across all manufacturing facilities, achieving a 23% decrease in water consumption per unit of production compared to the 2020 baseline year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2019 baseline through energy efficiency improvements, renewable energy procurement, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual human rights and labor practices audits by certified third-party assessors starting in 2023.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2019 baseline, with annual progress tracked and disclosed through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and have installed solar panels across 12 manufacturing facilities generating 8 megawatts of renewable energy.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline and have already achieved a 23% reduction through energy efficiency upgrades across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that has reduced freshwater consumption by 35% since 2022, with a target to achieve 50% reduction by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and Scope 2 greenhouse gas emissions by 32% since 2020 through the installation of solar panels at five manufacturing facilities and the transition of our delivery fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and Scope 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline, with annual progress monitored and disclosed in our sustainability reports.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 23% compared to our 2020 baseline through the installation of solar panels across 12 manufacturing facilities and transitioning our vehicle fleet to electric alternatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline through investments in renewable energy and energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to the 2019 baseline by transitioning to 100% renewable electricity across all manufacturing facilities in North America and Europe.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 22% compared to our 2020 baseline through the installation of solar panels at five manufacturing facilities and the transition of our delivery fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 compared to our 2019 baseline, with annual progress tracked and disclosed in our sustainability reports.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2019 baseline and have installed 2.5 MW of on-site solar capacity across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 compared to our 2020 baseline, with annual progress tracked and disclosed in our sustainability reports.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline through investments in renewable energy, energy efficiency upgrades, and fleet electrification across all operating facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring all tier-1 suppliers to reduce their carbon emissions by 30% by 2028, with quarterly audits and mandatory reporting through our digital supply chain platform.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline, with annual progress monitored and disclosed through our sustainability dashboard.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to our 2020 baseline by transitioning 80% of our manufacturing facilities to renewable energy sources and implementing energy-efficient technologies across operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2019 baseline through renewable energy procurement, energy efficiency upgrades, and electrification of our vehicle fleet.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company achieved a 23% reduction in Scope 1 and 2 greenhouse gas emissions against our 2020 baseline by transitioning 45% of our manufacturing facilities to renewable energy sources through solar panel installations and power purchase agreements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 23% compared to our 2020 baseline through the installation of solar panels at 15 manufacturing facilities and transitioning our vehicle fleet to electric models.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed LED lighting across all manufacturing facilities and office buildings, reducing our total electricity consumption for lighting by 42% and achieving annual energy cost savings of $1.2 million since implementation in 2022.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline and have invested $15 million in energy efficiency upgrades across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 22% compared to our 2020 baseline through energy efficiency upgrades across 15 manufacturing facilities and transitioning to 100% renewable electricity at our European operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed solar panels across 12 manufacturing facilities generating 8.5 megawatts of renewable energy annually, which reduces our carbon emissions by approximately 6,000 metric tons per year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2019 baseline, with annual progress tracked and verified by an independent third-party auditor.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline and have invested $12 million in renewable energy infrastructure to support this target.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline, with annual progress tracked and independently verified through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 23% compared to our 2020 baseline and committed to achieving net-zero emissions across our global operations by 2045.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline and have installed solar panels across 12 manufacturing facilities generating 8 megawatts of renewable energy.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline and have already achieved a 15% reduction through energy efficiency upgrades across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed 2,500 solar panels across our three manufacturing facilities, reducing our Scope 2 emissions by 18% and generating 1.2 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 32% since 2019 through the installation of solar panels at five manufacturing facilities and the transition of our company fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from a 2019 baseline, with annual progress tracked and disclosed through third-party verified carbon accounting systems.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 32% since 2019 through the installation of solar panels at five manufacturing facilities and the transition of our vehicle fleet to electric alternatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2020 baseline, with annual progress monitored and disclosed through our sustainability dashboard.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed a 2.5 megawatt solar panel system across our three largest manufacturing facilities, reducing our Scope 2 emissions by 18% and generating approximately 3,200 MWh of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have invested $2.3 million in solar panel installations across our three manufacturing facilities, reducing our Scope 2 emissions by 18% and achieving 35% renewable energy usage in our operations by fiscal year-end 2023.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2020 baseline and have invested $15 million in renewable energy infrastructure across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from a 2019 baseline and has invested $15 million in renewable energy infrastructure across its manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 23% compared to our 2020 baseline and committed to achieving net-zero emissions across our entire value chain by 2045.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 42% since 2019 through energy efficiency upgrades, renewable energy procurement, and the installation of solar panels across 15 manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against our 2020 baseline, with annual progress tracked and reported through our sustainability dashboard.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed a 2.5 MW solar panel system at our manufacturing facility, reducing our Scope 2 emissions by 35% and generating approximately 3,200 MWh of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 45% by 2030 from a 2019 baseline through renewable energy procurement, energy efficiency upgrades, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual human rights and labor practices audits by accredited third-party assessors.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to the 2019 baseline by transitioning 60% of our manufacturing facilities to renewable energy sources and implementing energy efficiency upgrades across all operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed a 2.5-megawatt solar panel system across our three largest manufacturing facilities, reducing our Scope 2 carbon emissions by 18% and decreasing annual electricity costs by approximately $400,000.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 32% since 2019 and committed to achieving net-zero emissions across our entire value chain by 2045.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual audits on labor practices, with non-compliance resulting in mandatory corrective action plans within 90 days.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline and has invested $15 million in renewable energy infrastructure across manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2019 baseline through renewable energy procurement, facility upgrades, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from our 2020 baseline and have invested $2.3 million in renewable energy infrastructure across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to the 2019 baseline through the installation of solar panels at 12 manufacturing facilities and transitioning the entire vehicle fleet to electric models.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we invested $2.4 million in renewable energy infrastructure across our manufacturing facilities, resulting in a 35% reduction in Scope 2 emissions and generating cost savings of approximately $800,000 annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 MW solar photovoltaic system across our manufacturing facilities, which became operational in March 2023 and is projected to reduce our annual carbon emissions by 1,800 tonnes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and has installed solar panels across 15 manufacturing facilities to date.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2020 baseline through investments in renewable energy, fleet electrification, and energy efficiency improvements across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our three manufacturing facilities that reduced freshwater consumption by 42% in 2023, treating and reusing approximately 2.8 million gallons annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 22% compared to our 2020 baseline through the installation of solar panels at 15 manufacturing facilities and transitioning our logistics fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with interim targets validated by the Science Based Targets initiative.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 18% compared to our 2020 baseline through the installation of solar panels at five manufacturing facilities and the transition to 100% renewable electricity across our European operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that evaluates 100% of our Tier 1 suppliers annually against our Code of Conduct, including labor practices, environmental standards, and ethical business requirements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a closed-loop water recycling system across all manufacturing facilities, reducing freshwater consumption by 40% and treating 95% of wastewater for reuse in non-potable applications.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline and has already achieved a 15% reduction through energy efficiency upgrades across manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company reduced Scope 1 and 2 greenhouse gas emissions by 32% compared to the 2019 baseline through the installation of solar panels at five manufacturing facilities and the transition of our logistics fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed solar panels across 12 manufacturing facilities, generating 8.5 megawatts of renewable energy annually and reducing our Scope 2 carbon emissions by 22% compared to our 2020 baseline.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 45% by 2030 against a 2019 baseline through renewable energy procurement, fleet electrification, and energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have achieved a 35% reduction in water consumption across our manufacturing facilities since 2020 through the implementation of closed-loop cooling systems and real-time monitoring technology at all production sites.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2020 baseline and have already achieved a 15% reduction through energy efficiency upgrades across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with annual progress tracked and disclosed in our sustainability reports.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 32% since 2019 through the installation of on-site solar panels, LED lighting upgrades across all facilities, and transitioning our vehicle fleet to electric models.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed solar panels across 12 manufacturing facilities generating 8.5 megawatts of renewable energy annually, reducing our Scope 2 carbon emissions by 22% compared to the 2020 baseline.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline and have installed solar panels across 15 manufacturing facilities to support this target.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2020 baseline through renewable energy procurement and energy efficiency upgrades across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a closed-loop water recycling system across our three manufacturing facilities, achieving a 45% reduction in freshwater consumption and preventing approximately 2.3 million liters of wastewater discharge annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline, with annual progress tracked and disclosed in our sustainability report.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed solar panels across 15 manufacturing facilities, generating 8.5 megawatts of renewable energy and reducing our carbon emissions by 12,000 metric tons annually while decreasing energy costs by 18%.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with annual progress tracked and independently verified through third-party audits.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 45% by 2030 from our 2020 baseline through renewable energy procurement, facility upgrades, and fleet electrification across all operational sites.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across all manufacturing facilities that recovers and reuses 65% of process water, reducing annual freshwater consumption by 2.8 million gallons since 2022.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline, with interim targets validated by the Science Based Targets initiative.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 45% by 2030 from a 2019 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 32% compared to our 2019 baseline through transitioning to renewable energy sources and upgrading to energy-efficient manufacturing equipment across all production facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline and has installed solar panels across 12 manufacturing facilities, generating 8 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our three manufacturing facilities, which has reduced freshwater consumption by 35% and resulted in annual savings of 2.5 million gallons since its deployment in January 2023.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-one suppliers to complete annual audits on labor practices, human rights, and environmental compliance by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a target to reduce our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2019 baseline, with progress tracked quarterly through our environmental management system.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that has reduced freshwater consumption by 35% since 2021, treating and reusing approximately 2.5 million gallons annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline, with annual progress tracked and disclosed in accordance with the Science Based Targets initiative.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supply chain due diligence program that audits 100% of our Tier 1 suppliers annually against our Supplier Code of Conduct, resulting in a 35% improvement in compliance scores since 2021.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from our 2020 baseline and have installed solar panels at 12 manufacturing facilities, generating 15 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline, with interim targets of 25% reduction by 2025, verified through third-party auditing.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual audits on labor practices, human rights, and environmental compliance by December 2024.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we invested $2.5 million in upgrading our manufacturing facilities with energy-efficient equipment, resulting in a 23% reduction in operational carbon emissions compared to our 2022 baseline.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and have invested $12 million in renewable energy infrastructure to support this target.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 28% compared to our 2020 baseline through investments in renewable energy procurement, energy efficiency upgrades across 45 facilities, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 MW rooftop solar array across our manufacturing facilities, which generates approximately 3,200 MWh annually and reduces our Scope 2 carbon emissions by 1,800 tonnes of CO2 equivalent per year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual audits on labor practices, with non-compliant suppliers subject to corrective action plans or contract termination.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with annual progress independently verified and publicly disclosed in our sustainability report.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across our global operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that evaluates 100% of our Tier 1 suppliers annually against environmental and labor standards, resulting in a 35% improvement in compliance scores since 2021.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and has installed solar panels at 12 manufacturing facilities to date.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed a 2.5 megawatt solar panel system across our three manufacturing facilities, which now generates 35% of our operational electricity needs and reduces our annual carbon emissions by approximately 1,800 tonnes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline, with interim targets verified by the Science Based Targets initiative.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual human rights and labor practices audits by certified third-party assessors, with results verified by our procurement team.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring all tier-one suppliers to reduce carbon emissions by 25% by 2025, with quarterly audits and automatic contract reviews for non-compliance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline, with annual progress tracked and reported through our sustainability dashboard.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed solar panels across 75% of our manufacturing facilities, generating 12 megawatts of renewable energy annually and reducing our Scope 2 carbon emissions by 8,500 metric tons per year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against our 2020 baseline through investments in renewable energy, fleet electrification, and energy efficiency improvements across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with interim targets of 25% reduction by 2025 verified through third-party audits.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and has invested $15 million in renewable energy infrastructure across its manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against our 2020 baseline, with annual progress tracked and disclosed through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 megawatt solar panel system across our manufacturing facilities, which generates approximately 35% of our operational electricity needs and reduces our annual carbon emissions by 1,800 metric tons.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from our 2020 baseline through investments in renewable energy sources and energy efficiency improvements across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we invested $2.3 million in renewable energy infrastructure across our manufacturing facilities, installing 5,000 solar panels that now generate 40% of our operational electricity needs and reduce annual carbon emissions by 1,200 tonnes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that requires 100% of our Tier 1 suppliers to complete annual sustainability assessments and achieve a minimum score of 75% on our environmental and labor standards criteria.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline through energy efficiency improvements, renewable energy procurement, and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from our 2020 baseline and have installed solar panels across 15 manufacturing facilities, generating 8 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our three manufacturing facilities, achieving a 35% reduction in freshwater consumption and recycling 2.5 million gallons annually since January 2023.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 MW rooftop solar array at our manufacturing facility, which is expected to reduce our annual carbon emissions by 1,800 metric tons and provide 30% of the facility's electricity needs.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to our 2020 baseline through investments in renewable energy, energy efficiency upgrades, and fleet electrification across our operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline and have already achieved a 22% reduction through renewable energy procurement and fleet electrification.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline and have installed solar panels across 12 manufacturing facilities, generating 8 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 22% compared to our 2020 baseline through the implementation of renewable energy installations across 15 manufacturing facilities and fleet electrification initiatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual third-party audits on labor practices and environmental compliance by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 45% by 2030 from a 2019 baseline, with annual progress tracked and disclosed through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our three manufacturing facilities that reduces freshwater consumption by 40% annually, saving approximately 2.5 million gallons per year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company reduced Scope 1 and 2 greenhouse gas emissions by 32% compared to the 2019 baseline and committed to achieving net-zero emissions across all operations by 2045 through renewable energy investments and energy efficiency improvements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from our 2020 baseline through renewable energy procurement, facility upgrades, and fleet electrification.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual human rights and labor practices audits by certified third-party assessors.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 22% compared to our 2020 baseline and committed to achieving carbon neutrality across all operations by 2035.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete third-party audits on labor practices and environmental compliance by the end of 2024.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring all Tier 1 suppliers to achieve ISO 14001 certification by 2025, with quarterly audits conducted to monitor compliance and sustainability performance across our supply chain.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2019 baseline through energy efficiency upgrades and transitioning to 100% renewable electricity across all operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual human rights and environmental audits by 2025, with quarterly progress reviews.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2020 baseline, with annual progress tracked and disclosed through our sustainability dashboard.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and Scope 2 greenhouse gas emissions by 35% compared to our 2019 baseline through the installation of solar panels at 12 manufacturing facilities and transitioning our vehicle fleet to electric models.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline, with annual progress monitored and disclosed through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we invested $2.8 million in renewable energy infrastructure across our manufacturing facilities, resulting in a 35% reduction in Scope 2 emissions and avoiding approximately 12,000 tonnes of CO2 equivalent annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring all tier-one suppliers to reduce their carbon emissions by 30% by 2030, with annual audits and quarterly progress reporting mandatory for contract renewal.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline, with annual progress tracked and disclosed through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our three manufacturing facilities, reducing freshwater consumption by 35% annually and treating 2.5 million gallons of wastewater for reuse in non-potable applications.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual ESG assessments and achieve minimum scores of 70% by 2025 to maintain partnership status.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has implemented a comprehensive supply chain due diligence program that audits 100% of tier-one suppliers annually against our Code of Conduct, resulting in a 35% improvement in supplier compliance scores since 2021.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that reduces freshwater consumption by 40% annually and treats 2.5 million gallons of wastewater for reuse in industrial processes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2019 baseline, with interim targets of 20% reduction by 2025 verified through third-party auditing.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2020 baseline through investments in renewable energy procurement and energy efficiency improvements across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we successfully diverted 85% of our manufacturing waste from landfills through our comprehensive recycling and composting program, exceeding our initial target of 75% and preventing approximately 12,000 metric tons of waste.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to our 2019 baseline through the installation of solar panels at 12 manufacturing facilities and transitioning our vehicle fleet to electric alternatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2020 baseline through investment in renewable energy infrastructure and energy efficiency improvements across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against our 2020 baseline, with annual progress tracked and disclosed in our sustainability report.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 23% compared to our 2020 baseline through facility upgrades, renewable energy procurement, and fleet electrification across our European operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced our Scope 1 and 2 greenhouse gas emissions by 32% since 2019 through the installation of solar panels at twelve manufacturing facilities and the transition of our vehicle fleet to electric models.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring all Tier 1 suppliers to reduce carbon emissions by 25% by 2025, with quarterly audits and mandatory reporting through our dedicated sustainability portal.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to undergo annual third-party audits on labor practices, environmental compliance, and ethical business standards by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring all tier-1 suppliers to reduce carbon emissions by 30% by 2030, with annual third-party audits and mandatory corrective action plans for non-compliance.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across our global operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have invested $2.5 million in renewable energy infrastructure across our manufacturing facilities, installing 5,000 solar panels that will reduce our annual carbon emissions by 1,200 metric tons.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2019 baseline and have installed solar panels at 12 manufacturing facilities generating 8.5 megawatts of renewable energy.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that assesses 100% of our Tier 1 suppliers annually against our Code of Conduct, including labor rights, environmental standards, and anti-corruption measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline, with annual progress tracked and disclosed through third-party verified carbon accounting.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our three manufacturing facilities that reduced freshwater consumption by 35% in 2023, saving approximately 2.4 million liters annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual human rights audits and achieve a minimum score of 80% by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 MW rooftop solar panel system across our three manufacturing facilities, which became operational in March 2023 and is projected to reduce our annual carbon emissions by 1,800 tonnes.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and Scope 2 greenhouse gas emissions by 42% by 2030 from a 2020 baseline, with interim targets validated by the Science Based Targets initiative.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"Our company has implemented a comprehensive water reduction program across all manufacturing facilities, achieving a 23% decrease in water consumption per unit of production compared to our 2020 baseline through advanced recycling systems and process optimization.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against our 2020 baseline through renewable energy procurement, fleet electrification, and energy efficiency improvements across all operational facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to complete annual sustainability audits covering labor practices, environmental compliance, and anti-corruption measures by 2025.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2019 baseline through investments in renewable energy procurement and facility energy efficiency upgrades.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from a 2019 baseline through renewable energy procurement and operational efficiency improvements across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to the 2019 baseline by transitioning 80% of its manufacturing facilities to renewable energy sources and implementing energy efficiency upgrades across all operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline and have installed solar panels across 15 manufacturing facilities to date.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline through renewable energy procurement and energy efficiency improvements across our manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual human rights and labor practices audits by independent third parties, with full implementation achieved in 2023.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from our 2020 baseline, with annual progress tracked and reported through our sustainability dashboard.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a supplier code of conduct requiring all Tier 1 suppliers to complete annual third-party audits on labor practices, with 87% achieving compliance certification in 2023.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to our 2019 baseline through implementing energy-efficient technologies across our manufacturing facilities and transitioning our vehicle fleet to electric models.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our Tier 1 suppliers to undergo annual ESG audits, with non-compliance resulting in immediate remediation plans or contract termination.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company has committed to reducing absolute Scope 1 and 2 greenhouse gas emissions by 50% by 2030 from a 2020 baseline and has invested $15 million in renewable energy infrastructure to support this target.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 MW solar panel system across our manufacturing facilities, which is expected to reduce our annual carbon emissions by 1,800 metric tons and meet 35% of our operational electricity needs.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that assesses 100% of our tier-one suppliers annually against our Code of Conduct, resulting in a 35% improvement in compliance scores since 2021.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against our 2020 baseline, with interim targets reviewed annually by our sustainability committee.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have partnered with certified recycling facilities to divert 85% of our manufacturing waste from landfills by 2025, having already achieved a 62% diversion rate in the previous fiscal year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions by 2023 compared to the 2019 baseline through investment in renewable energy infrastructure and implementation of energy efficiency measures across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 23% compared to our 2020 baseline through the installation of solar panels at twelve manufacturing facilities and the transition of our delivery fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has implemented a water recycling system across all manufacturing facilities that reduced freshwater consumption by 35% in 2023, saving approximately 2.4 million cubic meters of water annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 18% compared to our 2020 baseline through the installation of solar panels at five manufacturing facilities and transitioning our logistics fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with annual progress tracked and publicly reported in our sustainability disclosures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The Company has committed to reducing Scope 1 and 2 greenhouse gas emissions by 40% by 2030 from a 2020 baseline and has installed solar panels across 15 manufacturing facilities, generating 25 megawatts of renewable energy annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline through investments in renewable energy, energy efficiency upgrades, and fleet electrification across all operational facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that has reduced freshwater consumption by 35% since 2021, saving approximately 2.8 million gallons annually.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 23% compared to our 2020 baseline through the installation of solar panels at seven manufacturing facilities and transitioning our logistics fleet to electric vehicles.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline through transitioning to renewable energy sources and implementing energy efficiency upgrades across all manufacturing facilities.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2019 baseline, with interim targets of 25% reduction by 2025 already achieved through renewable energy procurement and fleet electrification.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we reduced our Scope 1 and 2 greenhouse gas emissions by 22% compared to our 2020 baseline through implementing energy-efficient technologies across 15 manufacturing facilities and transitioning our commercial vehicle fleet to electric alternatives.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring all tier-1 suppliers to reduce carbon emissions by 25% by 2025, with quarterly audits and non-compliance resulting in contract termination.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 40% by 2030 against a 2020 baseline, with annual progress tracking and third-party verification of our emissions data.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"In 2023, we installed solar panels across 12 manufacturing facilities, generating 4.5 megawatts of renewable energy and reducing our annual carbon emissions by 3,200 metric tons.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual human rights audits and achieve a minimum score of 80% by December 2024.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to the 2019 baseline through implementation of renewable energy installations across all manufacturing facilities and transition to electric vehicle fleet operations.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have reduced water consumption across our manufacturing facilities by 23% since 2020 through the implementation of closed-loop cooling systems and real-time monitoring technology at all production sites.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 against a 2020 baseline, with annual progress tracked and disclosed through third-party verified reporting mechanisms.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that evaluates 100% of our tier-one suppliers annually against our Code of Conduct, including labor practices, environmental compliance, and anti-corruption measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed a 2.5 megawatt rooftop solar panel system across our manufacturing facilities, which is expected to reduce our annual carbon emissions by 1,800 tonnes and lower electricity costs by 15 percent.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that evaluates 100% of our Tier 1 suppliers annually against our Code of Conduct, which includes labor rights, environmental standards, and anti-corruption measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against a 2020 baseline, with annual progress tracking and third-party verification of our carbon reduction achievements.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 from our 2020 baseline and have installed solar panels at 15 manufacturing facilities to support this target.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive water recycling system across our manufacturing facilities that recovers and reuses 65% of process water, reducing annual freshwater consumption by 2.3 million cubic meters since 2022.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have established a target to reduce our Scope 1 and 2 greenhouse gas emissions by 42% by 2030 compared to our 2019 baseline, with annual progress monitored and disclosed through our sustainability reporting framework.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"The company achieved a 35% reduction in Scope 1 and 2 greenhouse gas emissions compared to the 2019 baseline by implementing energy-efficient technologies across all manufacturing facilities and transitioning to 100% renewable electricity.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier audit program that assesses 100% of our Tier 1 suppliers annually against our Code of Conduct, including labor practices, environmental compliance, and anti-corruption measures.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have committed to reducing our Scope 1 and 2 greenhouse gas emissions by 50% by 2030 against our 2020 baseline, with annual progress reports verified by an independent third party.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have installed solar panels across 15 manufacturing facilities, generating 8.5 megawatts of renewable energy annually, which reduces our carbon emissions by approximately 6,200 tonnes of CO2 equivalent per year.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We have implemented a comprehensive supplier code of conduct requiring 100% of our tier-1 suppliers to complete annual audits on labor practices, with 87% achieving compliance certification in the reporting period.",
+    "binary_label":"substantive",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously exploring opportunities to reduce our carbon footprint and promote sustainable practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously seeking opportunities to reduce our impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to reduce our environmental footprint through sustainable practices and responsible resource management.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values the contributions of all employees and promotes equal opportunities for professional development across our global operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values every employee's contribution while promoting equal opportunities across all levels of our organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously working to reduce our environmental footprint through responsible business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives toward our shared organizational goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that promotes equal opportunities for all employees while supporting their professional development and well-being throughout their careers.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while seeking opportunities to reduce our carbon footprint in the coming years.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to reduce our environmental footprint through sustainable practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives towards achieving our long-term sustainability goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while working towards reducing our overall environmental footprint in the coming years.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and supply chain by engaging stakeholders and promoting responsible practices that create long-term value for our business and society.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our practices through ongoing dialogue and engagement with stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously seeking opportunities to reduce our carbon footprint and enhance positive impact for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously exploring opportunities to reduce our carbon footprint and enhance sustainability practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our practices in support of equal opportunities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously seeking opportunities to reduce our carbon footprint and minimize environmental impact.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and supply chain while continuously seeking opportunities to reduce our environmental footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives toward our sustainable business objectives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of continuous improvement in our environmental practices and seek to engage stakeholders in our journey toward more sustainable operations across our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and value chain, recognizing that environmental stewardship and social responsibility are essential to creating long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives toward our organization's sustainable growth objectives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values the contributions of all employees and promotes equal opportunities across our global operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations while working towards reducing our overall ecological footprint in alignment with emerging best practices and stakeholder expectations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to reduce our environmental footprint through responsible business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of continuous improvement in our environmental stewardship practices while working toward reducing our operational impact on natural resources and ecosystems.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations and aim to reduce our impact on natural resources through continuous improvement initiatives and employee engagement programs.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuously improving our sustainability practices to create long-term value for all stakeholders while minimizing our ecological footprint.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our practices in alignment with evolving best standards.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to reduce our environmental footprint through sustainable practices that benefit all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and supply chain, while continuously working to reduce our environmental footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations by engaging stakeholders and promoting responsible practices that support long-term value creation for our communities and the environment.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations and supply chain while working towards reducing our overall impact on natural resources and ecosystems.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuous improvement across our operations while supporting the communities in which we operate.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that empowers all employees to reach their full potential while supporting the communities in which we operate.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our practices and policies in this important area.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while continuously working to minimize our impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives toward our collective success.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously working to create an environment where every employee feels valued and respected.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously seeking opportunities to enhance employee engagement and create meaningful value for all our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values the contributions of all employees and promotes equal opportunities for professional development and advancement across our organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all employees and promotes equal opportunities, while continuously working to improve our social responsibility practices across all operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and social responsibility throughout our operations while continuously seeking opportunities to enhance our sustainability performance for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and responsible resource management across our operations while continuously seeking opportunities to reduce our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to reach their full potential while contributing to our organization's long-term success.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to reduce our environmental footprint through responsible resource management and sustainable business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and social responsibility across our operations while continuously working to enhance our governance practices for the benefit of all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our organization while continuously working to enhance employee wellbeing and create meaningful opportunities for professional development.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that empowers all employees to reach their full potential while supporting sustainable business practices across our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives toward our sustainability goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our representation across all levels of the organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while continuously seeking opportunities to reduce our carbon footprint and enhance positive impacts on the communities we serve.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously seeking opportunities to reduce our carbon footprint and minimize our impact on the planet.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations and aim to integrate sustainable practices into our decision-making processes wherever possible.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while supporting the communities in which we operate through meaningful partnerships and responsible business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives to our organizational success.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously seeking opportunities to reduce our carbon footprint through innovative sustainability initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our practices in promoting equal opportunities across the organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while striving to reduce our environmental footprint through sustainable practices that support long-term value creation for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while continuously seeking opportunities to reduce our carbon footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while striving to minimize our impact on natural resources for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and supply chain while continuously exploring innovative solutions to reduce our environmental footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability throughout our operations while continuously seeking opportunities to reduce our carbon footprint and enhance our positive impact on communities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously working to enhance employee engagement and workplace wellbeing.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously working to improve employee engagement and workplace wellbeing through various initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute to our sustainability goals and long-term success.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to identify opportunities for improvement in our equality practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable innovation across our operations while striving to minimize our carbon footprint for the benefit of future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously exploring innovative solutions to reduce our carbon footprint and promote sustainable practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and reducing our carbon footprint across our operations through continuous improvement initiatives and employee engagement programs.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to enhance our equity practices across all levels of the organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while striving to minimize our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, and we continually strive to improve our practices in support of these important objectives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values different perspectives and backgrounds while continuously working to reduce our environmental footprint across all operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to reach their full potential while contributing to our sustainability goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and responsibility across our operations while continuously seeking opportunities to minimize our impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuous improvement across our operations while engaging with stakeholders to create long-term sustainable value for our communities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while striving to create meaningful opportunities for underrepresented groups within our workforce and supply chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and social responsibility across our operations while continuously seeking opportunities to enhance our governance practices for the benefit of all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously improving our environmental performance through sustainable business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously exploring opportunities to reduce our carbon footprint and enhance resource efficiency.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all employees and supports their professional development through various initiatives aligned with our core organizational values.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while working towards reducing our ecological footprint through continuous improvement initiatives and responsible resource management practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuously improving our sustainability practices to create long-term value for all stakeholders while minimizing our impact on the planet.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working towards creating an equitable workplace environment for all employees.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously exploring opportunities to reduce our carbon footprint and enhance positive impacts for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives toward achieving our long-term sustainability objectives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while striving to create equitable opportunities for all stakeholders in alignment with our core values.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute to our sustainable growth objectives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to reduce our environmental footprint through innovative sustainability initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that empowers all employees to reach their full potential while contributing to sustainable business growth.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion throughout our organization while continuously working to enhance employee engagement and create meaningful opportunities for professional development across all levels.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while striving to create meaningful opportunities for underrepresented communities in our workforce and supply chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability throughout our operations while continuously working to minimize our impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of continuous improvement in environmental stewardship across our operations while engaging stakeholders to identify opportunities for reducing our ecological footprint.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability across our operations while continuously exploring innovative solutions to reduce our environmental footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations by promoting sustainable practices that align with our core values and support long-term resilience.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while supporting local communities and maintaining the highest standards of ethical governance in all our business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability throughout our operations while seeking opportunities to reduce our carbon footprint in the coming years.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously exploring opportunities to minimize our environmental footprint and strengthen stakeholder engagement.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while working toward reducing our overall impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our organization while continuing to enhance our environmental stewardship practices for the benefit of future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our practices in alignment with evolving social expectations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability throughout our operations while continuously exploring opportunities to reduce our carbon footprint and promote responsible resource management.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while supporting sustainable practices that align with our long-term vision for responsible resource management and climate action.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and responsibility across our operations while continuously seeking opportunities to minimize our impact on the planet.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously improving our environmental performance through sustainable practices that benefit all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute to our organization's long-term sustainability goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values different perspectives and backgrounds while promoting equal opportunities for all employees throughout their career development journey.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while working towards reducing our overall impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all employees and promotes equal opportunities, while continuously working to improve our social impact across the communities we serve.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and value chain while continuously seeking opportunities to minimize our environmental footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously working to create an equitable workplace environment for all employees.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while striving to create meaningful opportunities for underrepresented communities in our workforce.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and responsibility across our operations while continuously exploring opportunities to reduce our carbon footprint and enhance sustainability practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously exploring innovative solutions to reduce our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuously improving our sustainability performance across all operations while engaging stakeholders in our journey toward a more sustainable future.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously exploring innovative solutions to minimize our carbon footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of continuous improvement in our environmental stewardship practices while engaging stakeholders to identify opportunities for reducing our operational impact on local communities and ecosystems.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously working to reduce our impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working towards creating equitable opportunities for all employees regardless of their background.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations and value chain while continuously exploring opportunities to reduce our carbon footprint and promote sustainable practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion throughout our organization while continuously working to reduce our environmental footprint across all operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and value chain, continuously seeking opportunities to minimize our environmental footprint while creating long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working towards creating an equitable workplace environment where all employees feel valued and respected.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while engaging stakeholders to create long-term value for our communities and future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and supply chain while continuously exploring innovative approaches to reduce our environmental footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to identify opportunities for reducing our environmental footprint in alignment with evolving stakeholder expectations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability across our operations and empowering our employees to contribute meaningfully to our environmental and social responsibility goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and supply chain while continuously seeking opportunities to reduce our environmental footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all employees and promotes equal opportunities for professional development across our global operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations while working towards reducing our overall ecological footprint in alignment with evolving sustainability best practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and social responsibility across our operations while continuously seeking opportunities to enhance our governance practices for long-term sustainable value creation.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously working to enhance employee wellbeing and engagement through various ongoing initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while supporting the communities in which we operate.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while working towards creating meaningful opportunities for underrepresented communities in our workforce.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously exploring opportunities to minimize our ecological footprint through innovative practices and employee engagement initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while supporting the professional development of our workforce to create long-term sustainable value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while continuously seeking opportunities to reduce our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously exploring innovative solutions to reduce our carbon footprint and enhance sustainability practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to enhance employee engagement and create meaningful opportunities for professional development throughout the organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuous improvement across our operations while working toward reducing our overall ecological footprint in the communities where we operate.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across all levels of our organization while continuously working to enhance employee engagement and wellbeing initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and reducing our ecological footprint through continuous improvement initiatives that align with emerging best practices in sustainability.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of continuous improvement in our environmental performance while engaging stakeholders to advance sustainable practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations by encouraging sustainable practices and raising awareness among our employees about the importance of reducing our ecological footprint.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously seeking opportunities to reduce our carbon footprint and enhance long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations and believe that sustainable practices will contribute to long-term value creation for all our stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while striving to minimize our environmental footprint through responsible business practices and sustainable innovation.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuous improvement across our operations to minimize our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all employees and promotes equal opportunities, while continuously working to reduce our environmental footprint across our operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability throughout our operations while working toward reducing our overall impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations by encouraging sustainable practices and raising awareness among our employees and stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute to our sustainable business practices and long-term organizational success.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability across our operations and strive to integrate environmental considerations into our decision-making processes wherever possible.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously exploring opportunities to reduce our environmental footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously seeking opportunities to reduce our carbon footprint and promote responsible resource management.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values every employee's contribution while continuously working toward reducing our environmental footprint across all operational areas.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and value chain while continuously exploring innovative solutions to minimize our environmental footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working toward creating meaningful opportunities for underrepresented communities in our workforce.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while working towards reducing our carbon footprint through various initiatives that align with global sustainability goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable innovation across our operations while continuously working to reduce our impact on the planet for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations by engaging stakeholders and promoting responsible practices that align with our values and contribute to long-term environmental stewardship.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously exploring opportunities to reduce our environmental footprint and enhance stakeholder engagement throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our organization through ongoing initiatives that promote equal opportunities and respectful workplace environments for all employees.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to improve employee wellbeing and create meaningful opportunities for underrepresented groups within our workforce.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all employees and promotes equal opportunities for professional development and advancement across our organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while supporting the communities in which we operate through meaningful engagement and sustainable business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and value chain while continuously exploring opportunities to reduce our environmental footprint and create long-term value for all stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while working collaboratively with stakeholders to identify opportunities for reducing our ecological footprint in the years ahead.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working towards reducing our environmental footprint through sustainable practices and responsible resource management.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations while continuously seeking opportunities to reduce our ecological footprint and promote sustainable practices across our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that respects all individuals and promotes equal opportunities, while continuously working to embed these values throughout our organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously exploring opportunities to minimize our environmental footprint and enhance stakeholder value.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability throughout our operations while continuously working to minimize our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and continuously improving our sustainability practices to minimize our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all perspectives and promotes equal opportunities, while continuously working to identify and address potential barriers to equity across our organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while continuously seeking opportunities to reduce our impact on the planet.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to improve our practices in support of equity and belonging.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while seeking opportunities to reduce our carbon footprint and promote sustainable practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously seeking opportunities to enhance employee engagement and promote equitable practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values all employees' contributions while continuously working to reduce our environmental footprint across operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously improving our environmental performance through responsible resource management and stakeholder engagement initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while working towards creating meaningful opportunities for underrepresented communities in our workforce and supply chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainability across our operations while continuously seeking opportunities to reduce our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously improving our environmental stewardship through responsible resource management and sustainable practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and responsible resource management across our operations while continuously seeking opportunities to minimize our ecological footprint.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental responsibility across our operations while continuously exploring innovative approaches to reduce our carbon footprint and promote sustainable practices throughout our value chain.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while working towards reducing our environmental footprint through sustainable practices that benefit our stakeholders and communities.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations while continuously seeking opportunities to reduce our carbon footprint and minimize waste generation.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and promoting sustainable practices across our operations to minimize our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees can thrive and contribute to our sustainability goals while upholding the highest standards of ethical conduct.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our global operations while continuously working to reduce our environmental footprint through innovative sustainability practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while striving to minimize our ecological footprint through continuous improvement initiatives and employee engagement programs.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to identify opportunities for improving employee engagement and workplace wellbeing initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values equity and belonging, while continuously striving to create opportunities for underrepresented groups across our organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that empowers all employees to reach their full potential while contributing to our long-term sustainability goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to reduce our environmental footprint through sustainable practices that align with our long-term corporate values.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our operations and supply chain, ensuring that environmental stewardship remains central to our long-term business strategy and decision-making processes.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while supporting the communities in which we operate through responsible business practices and ethical decision-making.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously working to enhance employee engagement and create meaningful opportunities for professional development.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously exploring opportunities to reduce our environmental footprint and enhance stakeholder engagement.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and responsible resource management across our operations while supporting the communities in which we operate.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability throughout our organization by engaging employees at all levels to support our environmental goals and integrate responsible practices into their daily operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and respected, while continuously working to promote equal opportunities across our organization.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture that values the contributions of all employees while promoting equal opportunities for professional development and advancement across our global operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship across our operations while continuously working toward reducing our carbon footprint through innovative solutions and meaningful partnerships with stakeholders.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a diverse and inclusive workplace culture where all employees feel valued and empowered to contribute their unique perspectives toward our organization's long-term sustainable success.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and reducing our carbon footprint across our operations while supporting sustainable development in the communities where we operate.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while continuously improving our environmental performance through responsible resource management and sustainable business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and responsibility across our operations while continuously seeking opportunities to minimize our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations, recognizing that a diverse workforce strengthens our ability to innovate and serve stakeholders more effectively.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship throughout our operations and value chain while exploring opportunities to reduce our carbon footprint in alignment with global sustainability goals.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and reducing our ecological footprint through continuous improvement initiatives that align with our long-term sustainability vision and stakeholder expectations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of environmental stewardship and sustainable practices across our operations while striving to minimize our ecological footprint for future generations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our organization by promoting equal opportunities and creating an environment where all employees feel valued and respected.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of continuous improvement in our supply chain sustainability practices while engaging with stakeholders to identify opportunities for reducing our environmental footprint across operations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our operations while promoting ethical business practices that align with our corporate values and stakeholder expectations.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of sustainability across our operations and supply chain while striving to minimize our environmental footprint through continuous improvement initiatives.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  },
+  {
+    "text":"We are committed to fostering a culture of diversity and inclusion across our organization while continuously working to reduce our environmental footprint through sustainable business practices.",
+    "binary_label":"symbolic",
+    "synthetic":true
+  }
+]
